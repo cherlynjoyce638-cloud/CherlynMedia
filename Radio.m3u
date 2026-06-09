@@ -11,7 +11,7 @@ https://proxy.rctiplus.com/?name=http://8.215.206.157:8002/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://stream-audio.rctiplus.com:8004/;
 
-#EXTINF:-1 group-title="Radio" ch-number="702" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/19001.v14.png",V Radio
+#EXTINF:-1 group-title="Radio" ch-number="702" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v8.png",V Radio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 https://proxy.rctiplus.com/?name=http://8.215.206.157:8008/;
 
